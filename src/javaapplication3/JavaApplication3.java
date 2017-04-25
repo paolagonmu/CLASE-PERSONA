@@ -16,6 +16,11 @@ public class JavaApplication3 {
      */
     public static void main(String[] args) {
         System.out.print ("hola mundo");
+        System.out.println("MANZANA");
+         System.out.println("uva");
+         System.out.println("fresa");
+         System.out.println("PIÑA");
+        
         
     }
     
